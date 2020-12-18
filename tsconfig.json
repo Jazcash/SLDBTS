@@ -12,6 +12,7 @@
     },
     "exclude": [
         "node_modules",
-        "working-files"
+        "working-files",
+        "dist"
     ]
 }
